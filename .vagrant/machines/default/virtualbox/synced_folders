@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant/storage":{"create":true,"guestpath":"/vagrant/storage","hostpath":"/Users/relik/Projects/relik/electroneum-full-node/storage","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/relik/Projects/relik/electroneum-full-node","disabled":false,"__vagrantfile":true}}}

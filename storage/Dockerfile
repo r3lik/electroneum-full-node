@@ -24,5 +24,7 @@ VOLUME /root/.electroneum
 
 ENTRYPOINT ["electroneumd"]
 
+EXPOSE 26967 26968
+
 # allow connections
 CMD ["--restricted-rpc", "--rpc-bind-ip=0.0.0.0", "--confirm-external-bind"]
